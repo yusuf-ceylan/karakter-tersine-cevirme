@@ -1,0 +1,15 @@
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.exe
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.deps.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.runtimeconfig.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.runtimeconfig.dev.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.pdb
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.AssemblyInfoInputs.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.AssemblyInfo.cs
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\obj\Debug\net5.0\refint\karakter-tersten-yazdirma.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.pdb
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.genruntimeconfig.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-tersten-yazdirma\obj\Debug\net5.0\ref\karakter-tersten-yazdirma.dll
